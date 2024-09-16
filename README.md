@@ -6,7 +6,7 @@ A simple fake server built using Python to simulate server responses for testing
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+  ######[Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
