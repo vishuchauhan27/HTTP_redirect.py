@@ -18,8 +18,7 @@ The server allows you to set up different endpoints and customize responses such
 - Easily set up multiple endpoints.
 - Customize HTTP response codes.
 - Serve static and dynamic content.
-- Simulate various delay times for response.
-- JSON and text-based response support.
+- Simulate various delay times for response..
 - Lightweight and easy to configure.
 
 ## Installation
@@ -34,7 +33,6 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/vishuchauhan27/HTTP_redirect.py
-   cd vishuchauhan
    
 ## License
 This `README.md` provides a basic overview, setup instructions, usage examples, and information about contributing to the project. You can adapt it further based on the actual implementation of your fake server.
