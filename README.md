@@ -46,3 +46,20 @@ Ensure you have the following installed:
     }
   }
 }
+
+{
+  "/api/users": {
+    "status": 200,
+    "content-type": "application/json",
+    "response": {
+      "users": ["user1", "user2", "user3"]
+    }
+  },
+  "/api/error": {
+    "status": 500,
+    "content-type": "application/json",
+    "response": {
+      "error": "Internal Server Error"
+    }
+  }
+}
