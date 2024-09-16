@@ -1,1 +1,1 @@
-<h1>hello</h1>
+In this script you simple make a fake web server in python :)
