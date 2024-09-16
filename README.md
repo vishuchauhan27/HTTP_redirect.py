@@ -37,6 +37,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/vishuchauhan27/HTTP_redirect.py
    cd fake-server-python
-
+   
+## License
 This `README.md` provides a basic overview, setup instructions, usage examples, and information about contributing to the project. You can adapt it further based on the actual implementation of your fake server.
 
