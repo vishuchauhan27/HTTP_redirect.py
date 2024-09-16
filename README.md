@@ -37,29 +37,6 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/vishuchauhan27/HTTP_redirect.py
    cd fake-server-python
-{
-  "/api/test": {
-    "status": 200,
-    "content-type": "application/json",
-    "response": {
-      "message": "This is a fake response"
-    }
-  }
-}
 
-{
-  "/api/users": {
-    "status": 200,
-    "content-type": "application/json",
-    "response": {
-      "users": ["user1", "user2", "user3"]
-    }
-  },
-  "/api/error": {
-    "status": 500,
-    "content-type": "application/json",
-    "response": {
-      "error": "Internal Server Error"
-    }
-  }
-}
+This `README.md` provides a basic overview, setup instructions, usage examples, and information about contributing to the project. You can adapt it further based on the actual implementation of your fake server.
+
