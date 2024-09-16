@@ -37,3 +37,12 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/vishuchauhan27/HTTP_redirect.py
    cd fake-server-python
+{
+  "/api/test": {
+    "status": 200,
+    "content-type": "application/json",
+    "response": {
+      "message": "This is a fake response"
+    }
+  }
+}
