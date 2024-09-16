@@ -35,5 +35,5 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fake-server-python.git
+   git clone https://github.com/vishuchauhan27/HTTP_redirect.py
    cd fake-server-python
