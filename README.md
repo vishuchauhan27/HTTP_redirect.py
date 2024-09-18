@@ -38,7 +38,8 @@ To run the fake server, ensure you have the following installed on your system:
 
 ### Step 1: Clone the Repository
 To get started, clone the repository from GitHub:
-(` ```bash ... ``` `).
+```bash
+cd desktop
 
 ###  Install Dependencies
 - Install the necessary Python packages by running :)
