@@ -3,7 +3,7 @@
 A lightweight, customizable Python-based fake server designed to simulate server responses for testing and development purposes.
 
 ## 📑 Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -29,7 +29,7 @@ The **Fake Server in Python** allows developers to simulate various HTTP respons
 
 ## 🛠 Prerequisites
 To run the fake server, ensure you have the following installed on your system:
-- **Python 2.x**: [Download Python](https://www.python.org/)
+- **Python 2**: [Download Python](https://www.python.org/downloads/release/python-272/)
 - **pip**: Python's package installer. [Install pip](https://pip.pypa.io/en/stable/)
 
 ---
