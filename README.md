@@ -47,3 +47,31 @@ Install the necessary Python packages by running :)
 ''' bash
 pip install -r requirements.txt
 
+⚙️ Usage
+
+Start the Server: Run the Python script to start the fake server.
+'''bash
+python fake_server.py
+
+Configure Endpoints: Modify the fake_server.py script to define custom endpoints and responses based on your needs.
+
+Access the Server: Once the server is running, use tools like Postman or curl to test your endpoints:
+
+'''bash
+curl http://localhost:8080/your-endpoint
+🤝 Contributing
+We welcome contributions to enhance this project! To get started:
+
+Fork the repository.
+Create a new feature branch (git checkout -b feature/my-feature).
+Commit your changes (git commit -m 'Add new feature').
+Push to the branch (git push origin feature/my-feature).
+Create a pull request.
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details
+'''bash
+
+This version adds professional formatting with clearer sections, and more detailed steps for installation and usage, and includes instructions for contributing, enhancing the overall user experience.
+
+
