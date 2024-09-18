@@ -39,7 +39,8 @@ To run the fake server, ensure you have the following installed on your system:
 ### Step 1: Clone the Repository
 To get started, clone the repository from GitHub:
 ```bash
-cd desktop
+git clone https://github.com/vishuchauhan27/HTTP_redirect.py
+```
 
 ###  Install Dependencies
 - Install the necessary Python packages by running :)
