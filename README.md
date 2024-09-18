@@ -62,8 +62,8 @@ python fake_server.py
 ```bash
 curl http://localhost:8080/your-endpoint
 ```
-🤝 Contributing
-- We welcome contributions to enhance this project! To get started:
+🤝 Contributing :
+We welcome contributions to enhance this project! To get started:
 
 - Fork the repository.
 - Create a new feature branch (git checkout -b feature/my-feature).
