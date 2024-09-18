@@ -2,14 +2,16 @@
 
 A lightweight, customizable Python-based fake server designed to simulate server responses for testing and development purposes.
 
-## 📑 Table of Contents
-- [Introduction](#-introduction)
-- [Features](#-features)
-- [Prerequisites](#-prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## 📚 **Table of Contents**
+
+- [📜 Introduction](#-introduction)
+- [✨ Features](#-features)
+- [⚙️ Prerequisites](#-prerequisites)
+- [📥 Installation](#installation)
+- [🚀 Usage](#usage)
+- [🤝 Contributing](#contributing)
+- [📝 License](#license)
+
 
 ---
 
