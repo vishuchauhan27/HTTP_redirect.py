@@ -38,15 +38,13 @@ To run the fake server, ensure you have the following installed on your system:
 
 ### Step 1: Clone the Repository
 To get started, clone the repository from GitHub:
-```bash
-git clone https://github.com/vishuchauhan27/HTTP_redirect.py
-cd HTTP_redirect.py
- 
-## Install Dependencies
+(` ```bash ... ``` `).
+
+###  Install Dependencies
 - Install the necessary Python packages by running :)
 pip install -r requirements.txt
 
-⚙️ Usage
+## ⚙️ Usage
 
 Start the Server: Run the Python script to start the fake server.
 '''bash
@@ -69,7 +67,10 @@ Create a pull request.
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details
-'''bash
+'''bashgit clone https://github.com/vishuchauhan27/HTTP_redirect.py
+cd HTTP_redirect.py
+ 
+
 
 This version adds professional formatting with clearer sections, and more detailed steps for installation and usage, and includes instructions for contributing, enhancing the overall user experience.
 
