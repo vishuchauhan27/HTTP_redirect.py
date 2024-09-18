@@ -44,8 +44,9 @@ git clone https://github.com/vishuchauhan27/HTTP_redirect.py
 
 ###  Install Dependencies
 - Install the necessary Python packages by running :)
-- pip install -r requirements.txt
-
+```bash
+ pip install -r requirements.txt
+```
 ## ⚙️ Usage
 
 Start the Server: Run the Python script to start the fake server.
