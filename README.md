@@ -69,11 +69,10 @@ We welcome contributions to enhance this project! To get started:
 = Create a pull request.
 
 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details
-
- 
-
-
+This project is licensed under the MIT License. See the LICENSE file for more details.
 This version adds professional formatting with clearer sections, and more detailed steps for installation and usage, and includes instructions for contributing, enhancing the overall user experience.
+
+
+Smyle-😆
 
 
