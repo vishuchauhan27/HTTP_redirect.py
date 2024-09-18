@@ -4,7 +4,7 @@ A lightweight, customizable Python-based fake server designed to simulate server
 
 ## 📑 Table of Contents
 - [Introduction](#-introduction)
-- [Features](#features)
+- [Features](#-features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
