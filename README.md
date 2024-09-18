@@ -1,39 +1,43 @@
-# Fake Server in Python
+# 🖥️ Fake Server in Python
 
-A simple fake server built using Python to simulate server responses for testing and development purposes.
+A lightweight, customizable Python-based fake server designed to simulate server responses for testing and development purposes.
 
-## Table of Contents
+## 📑 Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Prerequisites](#Prerequisites)
+- [Usage](#usage)
+- [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-This Python-based fake server is designed to simulate various server responses. It is useful for developers who need to test client-side applications or integrations without relying on a live server.
+---
 
-The server allows you to set up different endpoints and customize responses such as status codes, headers, and payloads.
+## 📘 Introduction
+The **Fake Server in Python** allows developers to simulate various HTTP responses, making it ideal for testing client applications, APIs, or integrations without the need for a live backend. The server is highly configurable, allowing users to define endpoints, adjust response times, and serve static or dynamic content.
 
-## Features
-- Easily set up multiple endpoints.
-- Customize HTTP response codes.
-- Serve static and dynamic content.
-- Simulate various delay times for response..
-- Lightweight and easy to configure.
+---
 
-## Installation
+## ✨ Features
+- 📍 **Multiple Endpoints**: Easily define and simulate various API routes.
+- 🔧 **Custom HTTP Responses**: Configure response codes, headers, and payloads.
+- 🕒 **Simulate Latency**: Add custom delays to mimic network conditions.
+- 🗃 **Static and Dynamic Content**: Serve static files or generate dynamic responses.
+- 🪶 **Lightweight & Easy-to-Use**: Minimal dependencies, easy to set up.
 
-### Prerequisites
-Ensure you have the following installed:
-- [Python 3.x](https://www.python.org/)
-- [pip](https://pip.pypa.io/en/stable/)
+---
 
-### Steps
+## 🛠 Prerequisites
+To run the fake server, ensure you have the following installed on your system:
+- **Python 2.x**: [Download Python](https://www.python.org/)
+- **pip**: Python's package installer. [Install pip](https://pip.pypa.io/en/stable/)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vishuchauhan27/HTTP_redirect.py
-   
-## License
-This `README.md` provides a basic overview, setup instructions, usage examples, and information about contributing to the project. You can adapt it further based on the actual implementation of your fake server.
+---
 
+## 🚀 Installation
+
+### Step 1: Clone the Repository
+To get started, clone the repository from GitHub:
+```bash
+git clone https://github.com/vishuchauhan27/HTTP_redirect.py
+cd HTTP_redirect.py
