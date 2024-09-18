@@ -41,10 +41,9 @@ To get started, clone the repository from GitHub:
 ```bash
 git clone https://github.com/vishuchauhan27/HTTP_redirect.py
 cd HTTP_redirect.py
-
-Install Dependencies
-Install the necessary Python packages by running :)
-''' bash
+ 
+## Install Dependencies
+- Install the necessary Python packages by running :)
 pip install -r requirements.txt
 
 ⚙️ Usage
