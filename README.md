@@ -53,7 +53,7 @@ git clone https://github.com/vishuchauhan27/HTTP_redirect.py
 
 Start the Server: Run the Python script to start the fake server.
 ```bash
-python fake_server.py
+python HTTP_redirect.py
 ```
 
 - Configure Endpoints: Modify the fake_server.py script to define custom endpoints and responses based on your needs.
