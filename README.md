@@ -1,4 +1,4 @@
-# 🖥️ Fake Server in Python
+# 🖥️ Fake Redirect in Python
 
 A lightweight, customizable Python-based fake server designed to simulate server responses for testing and development purposes.
 
